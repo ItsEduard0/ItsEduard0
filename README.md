@@ -58,7 +58,6 @@ Building and scaling advanced LLM architectures, high-precision RAG pipelines, a
 | :--- | :--- | :--- |
 | **AI Agentic Platform** | Multi-agent system with persistent memory, ReAct, tool-calling, and advanced architecture. | Python, FastAPI, LangChain |
 | **RAG Enterprise Engine** | Hybrid retrieval pipeline over multi-format documents with re-ranking and high accuracy. | Python, VectorDB, Qdrant |
-| **Advoga A.I** | Intelligent legal-tech solution automating text analysis and regulatory cross-referencing. | Python, LLMs, Natural Language Processing |
 | **Detector de Sites Fraudulentos** | Automated analysis and detection system for phishing pages and web fraud in real time. | Python, Machine Learning, FastAPI |
 | **Gerador de Escala Empresarial** | Optimization algorithm for enterprise-scale workforce scheduling automation and smart management. | Python, Optimization Algorithms, Back-end |
 | **Voz Popular Brasil** | Platform focused on public data analysis, transparency, and civic-social engagement. | Data Science, Python, Visualization |
