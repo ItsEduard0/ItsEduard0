@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=0B6770&center=true&width=500&height=35&lines=Software+Engineer+%26+AI+Specialist;LLM%2C+RAG+%2C+and+Agents+Expert;Scalable+Systems+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=0B6770&center=true&width=500&height=35&lines=Software+Engineer+%26+AI+Specialist;LLM+and+RAG+Expert;Scalable+Systems+Architect" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm Eduardo! 👋</h1>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/W2o9Z9kO76sAAAAC/who-me-gif.gif" width="140" alt="Who Me GIF" />
+  <img src="https://media.tenor.com/W2o9Z9kO76sAAAAC/who-me-gif.gif" width="100" alt="Who Me GIF" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ Building and scaling advanced LLM architectures, high-precision RAG pipelines, a
 * **Bachelor's Degree in Data Science** — Completed
 * **Bachelor's Degree in Information Technology** (Emphasis in Data Analysis) — Completed
 * **Postgraduate Degree in Software Development and Testing** — In Progress
-* **Postgraduate Degree in Digital Law and Data Protection** — In Progress
+* **Postgraduate Degree in Direito Digital e Proteção de Dados** — In Progress
 
 ---
 
